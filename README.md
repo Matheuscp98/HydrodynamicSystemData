@@ -26,7 +26,7 @@ This repository is part of the research study:
 ## 🛠️ How to Use
 1. Clone or download this repository.  
 2. Open '.csv' files with **Python (pandas)**, **R**, **Microsoft Excel**, **Google Sheets**, or other software .
-5. Use [**Dataset Heat Transfer**](dataset.csv) as the **main dataset**.
+5. Use [**Database Heat Transfer**](database.csv) as the **main dataset**.
 ---
 
 ## 📂 Repository Structure
@@ -34,7 +34,7 @@ This repository is part of the research study:
 | File | Description |
 |------|-------------|
 | [**README**](README.md) | Documentation of the dataset and repository usage. |
-| [**Dataset Heat Transfer**](datasets.csv) | Main dataset. |
+| [**Database Heat Transfer**](database.csv) | Main dataset. |
 
 ---
 
